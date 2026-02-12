@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Simarpreet Singh
 **C++ | DSA | MERN Stack Developer | Golang | Aspiring Software Engineer**
 
-Email Me 👉 ✉️ **ssimarpreet002@gmail.com** Open to collaborations, internships, and exciting opportunities. 😊😊
+Reach me at: [ssimarpreet002@gmail.com](mailto:ssimarpreet002@gmail.com)   Open to collaborations, internships, and exciting opportunities. 😊😊
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simarpreet455) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simarpreet-singh-1128382a7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssimarpreet002@gmail.com) 
 
